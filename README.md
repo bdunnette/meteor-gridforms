@@ -1,4 +1,6 @@
 ##Gridforms
+
+[![Join the chat at https://gitter.im/bdunnette/meteor-gridforms](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bdunnette/meteor-gridforms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An effort to make beautiful forms for web applications that make data entry less painful. Gridforms is a front-end library which handles the boilerplate necessary to build grid based forms.
 
 This is my first ever open source project so please [email](mailto:contact@kumailht.com) me if you spot any errors (which you're guaranteed to find). I am only now realizing how hard it is to write even simple documentation, your help in improving it will be greatly appreciated.
